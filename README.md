@@ -1,4 +1,4 @@
-#  [ REST API 실습 ] (http://github.com/spring-jeongwon/demo.git)
+#  [ REST API 실습 ] ([http://github.com/spring-jeongwon/demo.git](https://github.com/spring-jeongwon/demo/tree/rest))
   ## SpringBoot 실습환경 구성
     - 윈도우즈
     - IntelliJ IDEA 2023 Ultimate
